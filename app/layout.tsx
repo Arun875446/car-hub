@@ -3,8 +3,8 @@ import type { Metadata } from 'next'
 
 
 export const metadata: Metadata = {
-  title: 'JS Mastery',
-  description: 'JS Mastery Resources',
+   title: 'Toon Hub',
+  description: 'Anime and Cartoon Site',
 }
 
 export default function RootLayout({
